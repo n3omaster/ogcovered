@@ -71,7 +71,7 @@ export default function Index() {
                 <nav className='relative p-6 h-full overflow-y-auto'>
                   <div className='flex flex-col justify-between h-full'>
                     <a className='inline-block' href='#'>
-                      <img className='h-8' src='flex-ui-assets/logos/flex-ui-green-light.svg' alt=''
+                      <img className='h-8' src='logo/ogcovered-logo.svg' alt='ogcovered'
                       />
                     </a>
                     <ul className='py-6'>
@@ -139,12 +139,12 @@ export default function Index() {
                     <img
                       className='absolute z-10 -left-14 -top-12 w-28 md:w-auto'
                       src='flex-ui-assets/elements/circle3-yellow.svg'
-                      alt=''
+                      alt='ogcovered'
                     />
                     <img
                       className='absolute z-10 -right-7 -bottom-8 w-28 md:w-auto'
                       src='flex-ui-assets/elements/dots3-blue.svg'
-                      alt=''
+                      alt='ogcovered'
                     />
                     <svg className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-50 cursor-pointer text-green-500 hover:text-green-600' width={64} height={64} viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'>
                       <circle cx={32} cy={32} r={32} fill='currentColor' />
@@ -246,7 +246,7 @@ export default function Index() {
                 </div>
               </div>
               <div className='w-full lg:w-1/3 px-4 mb-8 lg:mb-0'>
-                <img className='mx-auto' src='flex-ui-assets/images/features/stock.png' alt='' />
+                <img className='mx-auto' src='flex-ui-assets/images/features/stock.png' alt='ogcovered' />
               </div>
               <div className='w-full lg:w-1/3 lg:pt-6 px-4'>
                 <div className='p-8 lg:mb-6 text-center hover:bg-white rounded-md hover:shadow-xl transition duration-200'>
@@ -409,7 +409,7 @@ export default function Index() {
               <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8'>
                 <div className='md:max-w-xs'>
                   <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='' />
+                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='ogcovered' />
                   </div>
                   <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
                     Citizenship
@@ -422,7 +422,7 @@ export default function Index() {
               <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8'>
                 <div className='md:max-w-xs'>
                   <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='' />
+                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='ogcovered' />
                   </div>
                   <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
                     Green Card
@@ -437,7 +437,7 @@ export default function Index() {
                   <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
                     <img
                       src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt=''
+                      alt='ogcovered'
                     />
                   </div>
                   <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
@@ -453,7 +453,7 @@ export default function Index() {
                   <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
                     <img
                       src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt=''
+                      alt='ogcovered'
                     />
                   </div>
                   <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
@@ -469,7 +469,7 @@ export default function Index() {
                   <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
                     <img
                       src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt=''
+                      alt='ogcovered'
                     />
                   </div>
                   <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
@@ -485,7 +485,7 @@ export default function Index() {
               <img
                 className='absolute top-0 left-0 h-full w-full object-cover'
                 src='flex-ui-assets/elements/pattern-dark.svg'
-                alt=''
+                alt='ogcovered'
               />
               <div className='relative max-w-max mx-auto text-center'>
                 <h3 className='mb-2 text-2xl md:text-5xl leading-tight font-bold text-white tracking-tighter'>
@@ -531,7 +531,7 @@ export default function Index() {
                 <div className='flex items-center'>
                   <img className='w-20 md:w-24 h-20 md:h-24 mr-6 rounded-full'
                     src='https://images.unsplash.com/photo-1511688878353-3a2f5be94cd7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzIzMzB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTQxODU3MDd8&ixlib=rb-4.0.3&q=85&w=88&h=88'
-                    alt=''
+                    alt='ogcovered'
                   />
                   <div>
                     <h3 className='mb-2 text-xl md:text-2xl font-semibold'>
@@ -548,12 +548,12 @@ export default function Index() {
                   <img
                     className='absolute top-0 left-0'
                     src='flex-ui-assets/elements/testimonials/quote-top-green.svg'
-                    alt=''
+                    alt='ogcovered'
                   />
                   <img
                     className='absolute bottom-0 right-0'
                     src='flex-ui-assets/elements/testimonials/quote-down-green.svg'
-                    alt=''
+                    alt='ogcovered'
                   />
                   <div className='relative'>
                     <h2 className='text-2xl font-semibold tracking-tighter'>
@@ -593,14 +593,9 @@ export default function Index() {
               </a>
             </div>
             <div className='relative max-w-4xl mx-auto'>
-              <img className='absolute top-0 left-0 -mt-6 lg:-mt-12 -ml-6 lg:-ml-12 w-20 lg:w-auto z-10'
-                src='flex-ui-assets/elements/circle3-yellow.svg' alt=''
-              />
-              <img
-                className='absolute bottom-0 right-0 -mb-6 lg:-mb-10-mr-6 lg:-mr-12 w-20 lg:w-auto'
-                src='flex-ui-assets/elements/dots3-blue.svg' alt=''
-              />
-              <img className='relative' src='https://images.unsplash.com/photo-1601091581856-07d8bd49e47c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzIzMzB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTQxODU3MDd8&ixlib=rb-4.0.3&q=85&w=1416&h=709' alt='' />
+              <img className='absolute top-0 left-0 -mt-6 lg:-mt-12 -ml-6 lg:-ml-12 w-20 lg:w-auto z-10' src='flex-ui-assets/elements/circle3-yellow.svg' alt='ogcovered' />
+              <img className='absolute bottom-0 right-0 -mb-6 lg:-mb-10-mr-6 lg:-mr-12 w-20 lg:w-auto' src='flex-ui-assets/elements/dots3-blue.svg' alt='ogcovered' />
+              <img className='rounded-3xl relative' src='/imgs/ogcovered-what-covers.jpg' alt='ogcovered with us' />
             </div>
           </div>
         </section>
@@ -690,14 +685,7 @@ export default function Index() {
                   <div className='w-full md:w-1/2 px-4 mb-10 md:mb-0'>
                     <div className='max-w-xs mx-auto'>
                       <div className='inline-flex mb-6 items-center justify-center w-12 h-12 bg-green-500 rounded-full'>
-                        <svg
-                          className='h-6 text-white'
-                          width={24}
-                          height={24}
-                          viewBox='0 0 24 24'
-                          fill='none'
-                          xmlns='http://www.w3.org/2000/svg'
-                        >
+                        <svg className='h-6 text-white' width={24} height={24} viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'>
                           <path
                             d='M18.0001 4.48C16.4088 2.8887 14.2505 1.99472 12.0001 1.99472C9.74961 1.99472 7.59135 2.8887 6.00005 4.48C4.40875 6.0713 3.51477 8.22957 3.51477 10.48C3.51477 12.7304 4.40875 14.8887 6.00005 16.48L11.2701 21.76C11.363 21.8537 11.4736 21.9281 11.5955 21.9789C11.7173 22.0297 11.848 22.0558 11.9801 22.0558C12.1121 22.0558 12.2428 22.0297 12.3646 21.9789C12.4865 21.9281 12.5971 21.8537 12.6901 21.76L18.0001 16.43C19.5847 14.8453 20.4749 12.6961 20.4749 10.455C20.4749 8.21395 19.5847 6.06468 18.0001 4.48ZM16.5701 15L12.0001 19.59L7.43005 15C6.5272 14.0963 5.91253 12.9452 5.66375 11.6923C5.41497 10.4393 5.54324 9.14075 6.03236 7.96068C6.52147 6.78062 7.34947 5.77205 8.41168 5.06248C9.4739 4.35291 10.7226 3.97418 12.0001 3.97418C13.2775 3.97418 14.5262 4.35291 15.5884 5.06248C16.6506 5.77205 17.4786 6.78062 17.9677 7.96068C18.4569 9.14075 18.5851 10.4393 18.3364 11.6923C18.0876 12.9452 17.4729 14.0963 16.5701 15ZM9.00005 7.41C8.19277 8.21977 7.73945 9.31657 7.73945 10.46C7.73945 11.6034 8.19277 12.7002 9.00005 13.51C9.59981 14.1108 10.3636 14.5211 11.1957 14.6894C12.0278 14.8577 12.891 14.7766 13.6771 14.4562C14.4632 14.1357 15.1372 13.5903 15.6145 12.8883C16.0918 12.1862 16.3512 11.3589 16.3601 10.51C16.3646 9.94321 16.2554 9.38126 16.039 8.85739C15.8225 8.33352 15.5033 7.85836 15.1001 7.46C14.7037 7.05458 14.2311 6.73154 13.7095 6.50947C13.1878 6.2874 12.6274 6.17068 12.0605 6.16603C11.4935 6.16138 10.9313 6.2689 10.406 6.48239C9.8808 6.69588 9.40297 7.01113 9.00005 7.41ZM13.6901 12.09C13.3111 12.4747 12.8103 12.7159 12.2732 12.7723C11.7361 12.8286 11.1961 12.6966 10.7456 12.3989C10.295 12.1012 9.96185 11.6562 9.80306 11.1401C9.64427 10.6239 9.6697 10.0686 9.87501 9.56916C10.0803 9.06967 10.4528 8.65702 10.9286 8.40174C11.4045 8.14646 11.9543 8.06441 12.484 8.16962C13.0137 8.27483 13.4904 8.56076 13.8326 8.97853C14.1748 9.39631 14.3612 9.91997 14.3601 10.46C14.3455 11.0773 14.0865 11.6635 13.6401 12.09H13.6901Z'
                             fill='currentColor'
@@ -778,18 +766,14 @@ export default function Index() {
         <section id='footer' className='bg-white overflow-hidden' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
           <div className='container px-4 mx-auto'>
             <div className='flex flex-wrap lg:items-center pt-24 pb-12 -mx-4'>
-              <div className='w-full md:w-1/2 px-4'>
-                <a className='block mb-8 max-w-max' href='#'>
-                  <img className='h-8' src='flex-ui-assets/logos/flex-ui-green-light.svg' alt='' />
+              <div className='w-full px-4'>
+                <a className='block mb-8 max-w-max' href='/'>
+                  <img className='h-32' src='logo/ogcovered-logo.svg' alt='ogcovered logo footer' />
                 </a>
-                <p className='mb-12 text-base md:text-lg text-coolGray-400 font-medium md:max-w-sm'>
+                <p className='mb-12 text-base md:text-lg text-coolGray-400'>
                   We also work with *Excess Telecom, a service provider for the government-funded Affordable Connectivity Program (ACP). The ACP is a government benefit program operated by the Federal Communication Commission (FCC) that provides discounts on monthly broadband Internet access service and specific connected devices.
                 </p>
-              </div>
-              <div className='w-full md:w-1/2 px-4'>
-                <p className='block mb-16 max-w-max'>
-                </p>
-                <p className='mb-12 text-base md:text-lg text-coolGray-400 font-medium md:max-w-sm'>
+                <p className='mb-12 text-base md:text-lg text-coolGray-400'>
                   Suppose you are part of a government program such as Snap, Medicaid, or WIC or a student receiving a Pell Grant. In that case, you can get a tablet with a low-cost activation fee and a free phone with unlimited calls and internet service for a year through us. Contact us today to learn more about how you might be eligible.
                 </p>
               </div>
