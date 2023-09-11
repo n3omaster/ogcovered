@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
+import 'animate.css';
 
 const meta = {
   title: 'OGCovered - A better health for you',
@@ -123,7 +124,7 @@ export default function Index() {
           <div className='py-20 md:py-28'>
             <div className='container px-4 mx-auto'>
               <div className='flex flex-wrap xl:items-center -mx-4'>
-                <div className='w-full md:w-5/12 px-2 mb-16 md:mb-0'>
+                <div className='w-full md:w-5/12 px-2 mb-16 md:mb-0 animate__animated animate__fadeInLeft'>
                   <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-white bg-green-500 uppercase rounded-9xl'>
                     A better health for you
                   </span>
@@ -141,7 +142,7 @@ export default function Index() {
                     </div>
                   </div>
                 </div>
-                <div className='w-full md:w-7/12 px-4'>
+                <div className='w-full md:w-7/12 px-4 animate__animated animate__fadeInRight'>
                   <div className='relative mx-auto md:mr-0 max-w-max'>
                     <img className='absolute z-10 -left-14 -top-12 w-28 md:w-auto' src='flex-ui-assets/elements/circle3-yellow.svg' alt='ogcovered' />
                     <img className='absolute z-10 -right-7 -bottom-8 w-28 md:w-auto' src='flex-ui-assets/elements/dots3-blue.svg' alt='ogcovered' />
@@ -157,7 +158,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id="mission" className='py-24 md:py-32 bg-white overflow-hidden' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
+
+        <section id="mission" className='py-24 md:py-32 bg-white overflow-hidden animate__animated animate__fadeInUp' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
           <div className='container px-4 mx-auto'>
             <div className='flex flex-wrap lg:items-center -mx-4'>
               <div className='w-full md:w-1/2 px-4 mb-16 md:mb-0'>
@@ -191,7 +193,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id="becovered" className='py-24 bg-white' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }}>
+
+        <section id="becovered" className='py-24 bg-white animate__animated animate__fadeInUp' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }}>
           <div className='container px-4 mx-auto'>
             <div className='xl:max-w-4xl mb-12 mx-auto text-center'>
               <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-full shadow-sm'>
@@ -279,7 +282,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id="benefits" className='py-24 bg-white' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }}>
+
+        <section id="benefits" className='py-24 bg-white  animate__animated animate__fadeInUp' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }}>
           <div className='container px-4 mx-auto'>
             <div className='max-w-5xl mx-auto text-center mb-16 md:mb-24'>
               <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-full shadow-sm'>
@@ -386,7 +390,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id="qualify" className='pt-24 bg-white' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
+
+        <section id="qualify" className='pt-24 bg-white animate__animated animate__fadeInUp' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
           <div className='container px-4 mx-auto'>
             <div className='max-w-4xl mb-16'>
               <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium rounded-full shadow-sm'>
@@ -496,7 +501,8 @@ export default function Index() {
           </div>
           <div className='h-64 bg-green-500' />
         </section>
-        <section className='py-24 md:pb-28 bg-white' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }} >
+
+        <section className='py-24 md:pb-28 bg-white animate__animated animate__fadeInLeft' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }} >
           <div className='container px-4 mx-auto'>
             <div className='flex flex-wrap items-center justify-center lg:justify-between -mx-4'>
               <div className='w-auto px-4 order-last lg:order-first'>
@@ -544,7 +550,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section className='relative py-24 md:pb-32 bg-white overflow-hidden' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }} >
+
+        <section className='relative py-24 md:pb-32 bg-white overflow-hidden animate__animated animate__fadeInUp' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center', }} >
           <div className='relative container px-4 mx-auto'>
             <div className='xl:max-w-4xl mb-18 md:mb-16 mx-auto text-center'>
               <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium uppercase rounded-full shadow-sm'>
@@ -567,7 +574,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id="contact" className='py-20 bg-white' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
+
+        <section id="contact" className='py-20 bg-white animate__animated animate__fadeInLeft' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
           <div className='container px-4 mx-auto'>
             <div className='flex flex-wrap mb-24 lg:mb-18 justify-between items-center'>
               <div className='w-full lg:w-1/2 mb-10 lg:mb-0'>
@@ -697,7 +705,8 @@ export default function Index() {
             </div>
           </div>
         </section>
-        <section id='footer' className='bg-white overflow-hidden' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
+
+        <section id='footer' className='bg-white overflow-hidden animate__animated animate__fadeIn' style={{ backgroundImage: 'url("flex-ui-assets/elements/pattern-white.svg")', backgroundPosition: 'center' }}>
           <div className='container px-4 mx-auto'>
             <div className='flex flex-wrap lg:items-center pt-24 pb-12 -mx-4'>
               <div className='w-full px-4'>
