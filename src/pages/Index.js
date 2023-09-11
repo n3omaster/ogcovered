@@ -79,34 +79,34 @@ export default function Index() {
               <div className='fixed top-0 left-0 bottom-0 w-full max-w-xs bg-white'>
                 <nav className='relative p-1 h-full overflow-y-auto'>
                   <div className='flex flex-col justify-between h-full'>
-                    <a className='inline-block' href='#'>
+                    <a className='inline-block' href='/'>
                       <img className='h-16' src='logo/ogcovered-logo.svg' alt='OGCovered, a better health for you' />
                     </a>
                     <ul className='py-6'>
                       <li>
-                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#'>
+                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#mission'>
                           Mision
                         </a>
                       </li>
                       <li>
-                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#'>
+                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#becovered'>
                           Coverage
                         </a>
                       </li>
                       <li>
-                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#'>
+                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#benefits'>
                           Benefits
                         </a>
                       </li>
                       <li>
-                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#'>
+                        <a className='block py-3 px-4 text-coolGray-500 hover:text-coolGray-900 font-medium hover:bg-coolGray-50 rounded-md' href='#qualify'>
                           Do I qualify?
                         </a>
                       </li>
                     </ul>
                     <div className='flex flex-wrap'>
                       <div className='w-full'>
-                        <a className='inline-block py-2 px-4 w-full text-sm leading-5 text-white bg-green-500 hover:bg-green-600 font-medium text-center focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 rounded-md' href='#'>
+                        <a className='inline-block py-2 px-4 w-full text-sm leading-5 text-white bg-green-500 hover:bg-green-600 font-medium text-center focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 rounded-md' href='#contact'>
                           Contact Us
                         </a>
                       </div>
