@@ -180,7 +180,7 @@ export default function Index() {
                   We specialize in Health insurance coverage, working to help you get the best and most affordable health insurance plan that fits your needs.
                 </p>
                 <p className='mb-6 text-lg md:text-xl text-coolGray-500 font-medium'>
-                  With entirely free consultations, we will help you decide between a list of health plans that are part of the Affordable Care Act. We are here to help you make an intelligent choice for your health and your family. Your protection is our priority.
+                  With entirely free consultations, we will help you decide between different health plans that are part of the Affordable Care Act (ACA).
                 </p>
                 <p className='mb-6 text-lg md:text-xl text-coolGray-500 font-medium'>
                   We are here to help you make an intelligent choice for your health and your family. Your protection is our priority.
@@ -204,7 +204,7 @@ export default function Index() {
                 What is the ACA?
               </h2>
               <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
-                The Affordable Care Act was signed into law on March 23, 2010, with the primary goal of expanding access to health insurance coverage. It provides rights and protections that make health coverage fair and accessible to understand.
+                The Affordable Care Act is a comprehensive healthcare reform, signed into law on March 23, 2010, significantly impacting healthcare throughout the United States.
               </p>
             </div>
             <div className='flex flex-wrap -mx-4'>
@@ -219,11 +219,8 @@ export default function Index() {
                     </svg>
                   </div>
                   <h3 className='mb-4 text-xl md:text-2xl leading-tight font-bold'>
-                    XXXXXXXXXXXXX
+                    Improve the quality of healthcare
                   </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXX
-                  </p>
                 </div>
                 <div className='p-8 text-center hover:bg-white rounded-md hover:shadow-xl transition duration-200'>
                   <div className='inline-flex h-16 w-16 mb-6 mx-auto items-center justify-center text-white bg-green-500 rounded-lg'>
@@ -235,11 +232,8 @@ export default function Index() {
                     </svg>
                   </div>
                   <h3 className='mb-4 text-xl md:text-2xl leading-tight font-bold'>
-                    XXXXXXXXXXXXX
+                    Make healthcare more available
                   </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXX
-                  </p>
                 </div>
               </div>
               <div className='w-full lg:w-1/3 px-4 mb-8 lg:mb-0'>
@@ -256,11 +250,8 @@ export default function Index() {
                     </svg>
                   </div>
                   <h3 className='mb-4 text-xl md:text-2xl leading-tight font-bold'>
-                    XXXXXXXXXXXXX
+                    Health coverage fair and accessible.
                   </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXX
-                  </p>
                 </div>
                 <div className='p-8 text-center hover:bg-white rounded-md hover:shadow-xl transition duration-200'>
                   <div className='inline-flex h-16 w-16 mb-6 mx-auto items-center justify-center text-white bg-green-500 rounded-lg'>
@@ -272,11 +263,8 @@ export default function Index() {
                     </svg>
                   </div>
                   <h3 className='mb-4 text-xl md:text-2xl leading-tight font-bold'>
-                    XXXXXXXXXXXXX
+                    Lower cost of healthcare
                   </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXX
-                  </p>
                 </div>
               </div>
             </div>
@@ -395,90 +383,23 @@ export default function Index() {
           <div className='container px-4 mx-auto'>
             <div className='max-w-4xl mb-16'>
               <span className='inline-block py-px px-2 mb-4 text-xs leading-5 text-green-500 bg-green-100 font-medium rounded-full shadow-sm'>
-                FAQ
+                Call us now
               </span>
               <h2 className='mb-4 text-4xl md:text-5xl leading-tight text-coolGray-900 font-bold tracking-tighter'>
-                What do I need to qualify?
+                You might be missing some perks and benefits!
               </h2>
               <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
-                XXXXXXXXXXXXXXX
+                Depending on your income, you might qualify for financial help through a subsidy, reducing monthly premiums and out-of-pocket expenses and saving you hundreds of dollars on medical bills.<br/><br/>
               </p>
-            </div>
-            <div className='flex flex-wrap pb-16 -mx-4'>
-              <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8'>
-                <div className='md:max-w-xs'>
-                  <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='ogcovered' />
-                  </div>
-                  <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
-                    Citizenship
-                  </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXXXX
-                  </p>
-                </div>
-              </div>
-              <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8'>
-                <div className='md:max-w-xs'>
-                  <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img src='flex-ui-assets/elements/faq/shield-icon.svg' alt='ogcovered' />
-                  </div>
-                  <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
-                    Green Card
-                  </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXXXX
-                  </p>
-                </div>
-              </div>
-              <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8'>
-                <div className='md:max-w-xs'>
-                  <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img
-                      src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt='ogcovered'
-                    />
-                  </div>
-                  <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
-                    Work Permit (I-766)
-                  </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXXXX
-                  </p>
-                </div>
-              </div>
-              <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8 xl:mb-0'>
-                <div className='md:max-w-xs'>
-                  <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img
-                      src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt='ogcovered'
-                    />
-                  </div>
-                  <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
-                    Temporary Stamp (in passport or I-94/I-94A)
-                  </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXXXX
-                  </p>
-                </div>
-              </div>
-              <div className='w-full md:w-1/2 xl:w-1/3 px-4 mb-8 md:mb-0'>
-                <div className='md:max-w-xs'>
-                  <div className='inline-flex mb-6 items-center justify-center w-12 h-12 rounded-full bg-green-500'>
-                    <img
-                      src='flex-ui-assets/elements/faq/shield-icon.svg'
-                      alt='ogcovered'
-                    />
-                  </div>
-                  <h3 className='mb-6 text-xl text-coolGray-900 font-bold'>
-                    And more...
-                  </h3>
-                  <p className='text-coolGray-500 font-medium'>
-                    XXXXXXXXXXXXXXX
-                  </p>
-                </div>
-              </div>
+              <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
+                Everyone is eligible for a free consultation. Call us now and get covered today!<br/><br/>
+              </p>
+              <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
+                More benefits? YES!<br/><br/>
+              </p>
+              <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
+                The marketplace health insurance plans cover many essential health benefits, such as hospitalizations, maternity and newborn care, preventive and wellness services, mental health issues, and more! It also allows applicants with pre-existing conditions to get coverage.
+              </p>
             </div>
             <div className='relative -mb-40 py-16 px-4 md:px-8 lg:px-16 bg-coolGray-800 rounded-md overflow-hidden'>
               <img
@@ -583,12 +504,12 @@ export default function Index() {
                   Contact
                 </span>
                 <h3 className='mb-4 text-4xl md:text-5xl text-darkCoolGray-900 font-bold tracking-tighter leading-tight'>
-                  Let’s stay connected
+                  Are you looking for professional help?
                 </h3>
                 <p className='text-lg md:text-xl text-coolGray-500 font-medium'>
-                  It's never been easier to get in touch with Flex. Call us, use
-                  our live chat widget or email and we'll get back to you as
-                  soon as possible!
+                  If you want to know more about the Marketplace health insurance plans and how to qualify for financial help, don’t hesitate to contact us.<br />
+                  We will help you understand better all you need to know to decide what coverage to get.<br />
+                  Your life is your biggest asset, and having health insurance will give you the security you need to preserve it.
                 </p>
               </div>
               <div className='w-full lg:w-auto'>
